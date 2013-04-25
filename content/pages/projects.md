@@ -135,7 +135,7 @@ Leechi was developed as part of my work at the
 
 * [Leechi on GitHub](https://github.com/mhaas/leechi)
 
-* [Leechi on Pypi](https://pypi.python.org/pypi/Leechi/0.3)
+* [Leechi on Pypi](https://pypi.python.org/pypi/Leechi/)
 
 </div>
 
