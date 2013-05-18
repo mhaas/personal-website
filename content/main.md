@@ -16,3 +16,5 @@ You can also download some [projects I have done](|filename|pages/projects.md).
 
 If you want to find about my personal life, go to the [about me](|filename|pages/about.md) section.
 
+Feel free to add me on [XING!](https://www.xing.com/profile/Michael_Haas135)!
+

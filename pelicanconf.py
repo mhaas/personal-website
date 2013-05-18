@@ -17,7 +17,17 @@ LINKS = None
 
 # Social widget
 
-SOCIAL = None
+#SOCIAL = None
+
+SOCIAL = [  ("github", "http://github.com/mhaas/"),
+            ("XING", "https://www.xing.com/profile/Michael_Haas135"),
+            ("Google+", "https://plus.google.com/115592321379755190116/posts")
+         ] 
+
+
+GPLUS = "https://plus.google.com/115592321379755190116/posts"
+
+GSITEVER = "TGefRjRcqUNOTWOFQwqb5C-0pMX6aoJq8cGWgZhwKeM"
 
 DEFAULT_PAGINATION = 10
 

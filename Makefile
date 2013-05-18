@@ -7,14 +7,14 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-FTP_HOST=localhost
-FTP_USER=anonymous
-FTP_TARGET_DIR=/
+FTP_HOST=computerlinguist.org
+FTP_USER=mhaas
+FTP_TARGET_DIR=/computerlinguist.org
 
-SSH_HOST=ella.cl.uni-heidelberg.de
+SSH_HOST=computerlinguist.org
 SSH_PORT=22
-SSH_USER=haas
-SSH_TARGET_DIR=~/public_html/
+SSH_USER=laga
+SSH_TARGET_DIR=~/website/
 
 DROPBOX_DIR=~/Dropbox/Public/
 

@@ -16,3 +16,5 @@ Einen etwas privateren Einblick finden sie unter ["Über Mich"](|filename|pages/
 
 Viel Spaß beim Umschauen.
 
+Sie finden mich auch bei [XING!](https://www.xing.com/profile/Michael_Haas135)!
+
