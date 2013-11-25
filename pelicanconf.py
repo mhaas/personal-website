@@ -3,7 +3,7 @@
 
 AUTHOR = u'Michael Haas'
 SITENAME = u'Michael Haas'
-SITEURL = ''
+SITEURL = 'http://www.computerlinguist.org/'
 
 DISPLAY_PAGES_ON_MENU = True
 
