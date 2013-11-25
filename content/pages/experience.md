@@ -7,6 +7,7 @@ lang: en
 During my studies and previous work experiences, I have encountered a vast array
 of technologies. What follows is a non-exhaustive list of skills and experiences.
 
+
 Programming Languages
 ======================
 * C/C++
@@ -22,6 +23,8 @@ Tools & Frameworks
 * JQuery Mobile
 * JUnit, Python UnitTest
 * Web2py
+* OpenNLP
+* HTML5
 
 Concurrent Programming
 ======================
@@ -39,4 +42,4 @@ Natural Language Processing & related
 * Semantic Web: RDF, OWL, SPARQL, DBPedia, Linked Open Data
 * Network Analysis
 * Sentiment Analysis, Opinion Mining
-
+* Machine Learning, WEKA
