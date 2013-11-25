@@ -38,6 +38,46 @@ Die meisten dieser Projekte entstanden als Hausarbeiten und sind nicht als
 fertige, ready-to-run Lösungen gedacht, sondern als Machbarkeitsstudien
 für Design und Implementierung der Algorithmen.
 
+Multimodale Distributionelle Semantik <span class="item-date">2013</span>
+-----------------------------------------------------------------------
+Traditionelle distributionelle Modelle der Semantik basieren auf Statistiken
+über großen Textkorpora. Viele Bedeutungsfacetten werden in Texten allerdings nicht
+berücksichtigt. Dieser traditionelle Ansatz der Bedeutungsrepräsentation ist
+daher ein wenig, wie "Radio zu hören, um Bedeutung zu lernen" (McClelland).
+Durch Integration anderer Modalitäten wie beispielsweise Bilder können wir die
+Modelle allerdings verbessern.
+
+
+In diesem Projekt versuche Ich, die Vorhersage semantischer Relationen zwischen
+Kopf einer Nominalphrase und ihres Modifikators zu verbessern. Das geschieht
+durch Integration von Bilddaten aus [ImageNet](http://www.image-net.org/).
+Zum Beispiel ist QUALITY die semantische Relation für "brick house". Durch Integration von
+Bild-Features für ["brick"](http://www.image-net.org/synset?wnid=n02897820)
+und ["house"](http://www.image-net.org/synset?wnid=n03544360) in das
+semantische Model will ich die Performance des Systems verbessern.
+Bild-Features werden über die SIFT-Implementierung des [OpenCV](http://www.opencv.org/)-Frameworks
+extrahiert. Das Projekt ist in C++ und Python implementiert.
+
+Diese Hausarbeit entstand für den Kurs
+["Distributionelle Semantik jenseits der Wortbedeutung"](http://www.cl.uni-heidelberg.de/courses/ss13/distribsem/).
+Der multimodale Ansatz ist inspiriert durch Präsentation aus dem Seminar
+["Multimodale Semantik"](http://www.cl.uni-heidelberg.de/courses/ss13/multisem/).
+
+
+<h3 class="item-ressources-header">Ressourcen</h3>
+
+<div class="item-ressources" markdown>
+
+* [Quelltext und Daten auf GitHub](https://github.com/mhaas/semrel-pictoral)
+
+* [Ausarbeitung](|filename|/downloads/semrel-pictoral/report.pdf)
+
+* [Folien zu verwandtem Papier](|filename|/downloads/semrel-pictoral/slides.pdf)
+
+</div>
+
+
+
 Twitter Sentiment Analysis <span class="item-date">2013</span>
 --------------------------------------------------------------
 
@@ -60,6 +100,7 @@ und mir als Hausarbeit für den Kurs
 <div class="item-ressources" markdown>
 
 * [Quelltext, GitHub](https://github.com/mhaas/twitter-sentiment-analysis)
+* [Project Report, PDF](|filename|/downloads/twitter-sentiment-analysis/report.pdf)
 
 </div>
 

@@ -40,6 +40,41 @@ Most of these projects were done as part of course work and are not necessarily
 production quality. They are intended to serve as proof of concept for
 design and algorithm implementation.
 
+
+Multimodal Distributional Semantics <span class="item-date">2013</span>
+-----------------------------------------------------------------------
+Traditional distributional models of meaning are built from large text corpora.
+However, many things go unmentioned in text. As McClelland puts it,
+the traditional approach to distribution semantics is like "learning meaning
+by listening to the radio". By integrating other modalities, such as images,
+we can improve our semantic models.
+
+In this project, I try to enhance prediction of semantic relations between
+head nouns and modifier nouns by integrating pictoral data from
+[ImageNet](http://www.image-net.org/). For example, the QUALITY relation
+holds for the noun phrase "brick house". I extract image features
+from pictures showing [bricks](http://www.image-net.org/synset?wnid=n02897820) and
+[houses](http://www.image-net.org/synset?wnid=n03544360) to improve prediction performance.
+Image features are extracted as SIFT descriptors using the [OpenCV](http://www.opencv.org/)
+framework. The code is written in Python and C++.
+
+This project was done as course work for the course
+["Distributionelle Semantik jenseits der Wortbedeutung"](http://www.cl.uni-heidelberg.de/courses/ss13/distribsem/).
+The multimodal approach is inspired by presentations from the seminar
+["Multimodale Semantik"](http://www.cl.uni-heidelberg.de/courses/ss13/multisem/).
+
+<h3 class="item-ressources-header">Ressources</h3>
+
+<div class="item-ressources" markdown>
+
+* [Source on GitHub](https://github.com/mhaas/semrel-pictoral)
+* [Project Report](|filename|/downloads/semrel-pictoral/report.pdf)
+* [Slides on related paper](|filename|/downloads/semrel-pictoral/slides.pdf)
+
+</div>
+
+
+
 Twitter Sentiment Analysis <span class="item-date">2013</span>
 --------------------------------------------------------------
 Social Media Monitoring has become an important research
@@ -50,7 +85,7 @@ to build a sentiment polarity classifier for German tweets. As a basic use case,
 we would like to get a feeling if the sentiments towards a currently trending topic
 such as '#tatort' are positive or negative.
 
-This ongoing project is being done by Tilman Wittl and myself as course work
+This project was done by Tilman Wittl and myself as course work
 for the course ["Text Mining"](http://www.cl.uni-heidelberg.de/courses/ws12/textmining/).
 
 <h3 class="item-ressources-header">Ressources</h3>
@@ -58,6 +93,7 @@ for the course ["Text Mining"](http://www.cl.uni-heidelberg.de/courses/ws12/text
 <div class="item-ressources" markdown>
 
 * [Source on GitHub](https://github.com/mhaas/twitter-sentiment-analysis)
+* [Project Report, PDF](|filename|/downloads/twitter-sentiment-analysis/report.pdf)
 
 </div>
 
