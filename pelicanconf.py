@@ -29,6 +29,9 @@ GPLUS = "https://plus.google.com/115592321379755190116/posts"
 
 GSITEVER = "TGefRjRcqUNOTWOFQwqb5C-0pMX6aoJq8cGWgZhwKeM"
 
+FAVPNG = u"static/images/MH.png"
+
+# FAVICO = u"blah"
 DEFAULT_PAGINATION = 10
 
 STATIC_PATHS = ([u'images',u'downloads'])
