@@ -14,7 +14,7 @@ eines der folgenden Dinge:
 
 * Aus Freude programmieren
 * Kochen & Essen
-* Coaching & Training bei CrossFit Heidelberg
+* Training bei CrossFit Heidelberg
 
 
 Programmieren & Spaß
@@ -33,15 +33,12 @@ Abendessen zu machen. Am Wochenende mit etwas mehr Zeit darf es aber gerne
 aufwendiger werden.
 Neue Küchengeräte und neue Gewürzmischungen sind immer gern gesehen.
 
-Coaching & Training
+Training
 ----------------------
 Sport ist ein wichtiger Ausgleich zum Leben im Bürostuhl, das mich als
 Student und Entwickler plagt. Mein Sport ist hauptsächlich CrossFit,
 den ich mit tollen Menschen bei
-[CrossFit Heidelberg](http://www.crossfit-heidelberg.de/) betreibe.
-Seit 2012 bin ich als
-[Trainer tätig](http://www.crossfit-heidelberg.de/uber-uns/)
-und gebe ein- bis zwei Mal pro Woche Training.
+[CrossFit Rhein-Neckar](http://www.crossfit-rhein-neckar.de/) betreibe.
 
 
 

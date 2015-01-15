@@ -13,7 +13,7 @@ one of three things:
 
 * Programming for fun
 * Cooking & Eating
-* Coaching and working out at CrossFit Heidelberg
+* Working out at [CrossFit Rhein-Neckar](http://www.crossfit-rhein-neckar.de/)
 
 
 Programming for fun
@@ -30,15 +30,12 @@ I have become quite proficient at throwing together a tasty dinner in
 10 minutes.
 New kitchen appliances make me happy, so does shopping for blends of spices.
 
-Coaching & Working Out
+Training
 ----------------------
 Sports are an important part of my life, as they complement my mostly
 sedentary life as a developer and student.
 My main sport is CrossFit and I train with the great folks at
-[CrossFit Heidelberg](http://www.crossfit-heidelberg.de/).
-I have been part of the
-[coaching staff](http://www.crossfit-heidelberg.de/uber-uns/)
-since 2012 and I am currently coaching once or twice a week.
+[CrossFit Rhein-Neckar](http://www.crossfit-rhein-neckar.de/).
 
 
 

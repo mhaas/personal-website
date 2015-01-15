@@ -7,6 +7,27 @@ Hier finden Sie eine Liste meiner Projekte. Einige Projekte entstanden
 im Rahmen meines Studiums, andere aufgrund persönlicher Bedürfnisse.
 Mehr Software finden Sie auf meinem [GitHub account](https://github.com/mhaas?tab=repositories).
 
+
+Masterarbeit <span class="item-date">2014</span>
+=====================================================
+Meine Master-Arbeit:
+> "Weakly Supervised Learning for Compositional Sentiment Recognition"
+
+Meine Master-Arbeit wurde von [Dr. Yannick Versley](http://www.versley.de/) betreut,
+mit Prof. Dr. Anette Frank als Zweitprüfer.
+Genauere Informationen befinden sich auf einer
+[eigenen Seite zu meiner Master-Arbeit](ma-thesis).
+
+<h3 class="item-ressources-header">Ressourcen</h3>
+
+<div class="item-ressources" markdown>
+
+* [Thesis PDF](|filename|/downloads/ma-thesis/Master_Thesis-Michael_Haas-Weakly_Supervised_Learning_for_Compositional_Sentiment_Recognition.pdf)
+
+* [Code auf GitHub](https://github.com/mhaas/ma-thesis)
+
+</div>
+
 Bachelor-Arbeit <span class="item-date">2011</span>
 =====================================================
 Meine Bachelor-Arbeit:
