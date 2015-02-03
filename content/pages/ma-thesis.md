@@ -1,7 +1,9 @@
 Title: Master's Thesis: Weakly Supervised Learning for Compositional Sentiment Recognition
 Slug: ma-thesis
 Date: 2015-01-15
+Modified: 2015-02-05
 lang: en
+status: hidden
 
 My Thesis
 ---------
@@ -13,6 +15,9 @@ My Thesis
 
 My master's thesis is concerned with compositional sentiment recognition. I propose
 a weakly supervised technique to create sentiment lexicons from product reviews.
+In a cross-lingual setting, I use automatic alignments between syntax trees to
+leverage extensive English resources for sentiment analysis in German on the phrase
+level.
 Furthermore, I show how semi-supervised methods and ensemble learning can improve
 sentiment analysis performance in a resource-scarce setting. A crowdsourced German
 sentiment treebank is used to for training and evaluation. On this compositional

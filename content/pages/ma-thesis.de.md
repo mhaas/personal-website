@@ -2,6 +2,7 @@ Title: Master's Thesis: Weakly Supervised Learning for Compositional Sentiment R
 Slug: ma-thesis
 Date: 2015-01-15
 lang: de
+status: hidden
 
 Meine Master-Arbeit
 ---------
@@ -12,7 +13,12 @@ Meine Master-Arbeit
 
 Meine Masterarbeit befasst sich mit der Erkennung von Sentiment, also Stimmungen bzw.
 Emotionen, auf kompositioneller Ebene. Ich stelle ein schwach überwachtes Verfahren
-zur Erstellung von Sentiment-Lexika aus Produktrezensionen vor. Ich zeige, wie
+zur Erstellung von Sentiment-Lexika aus Produktrezensionen vor.
+Im Rahmen sprachübergreifender Sentiment-Analyse nutze ich mittels
+automatisch angeglichener Syntax-Bäume bestehende, umfangreiche
+englischsprachige Ressourcen für die Erkennung von Sentiment im
+Deutschen auf Phrasenebene.
+Weiterhin zeige ich wie
 semi-supervised Methoden und Ensemble-Learning die Genauigkeit der Sentiment-Analyse
 verbessern, wenn nur begrenzte Ressourcen zur Verfügung stehen. Eine per Crowdsourcing
 erstelle Baumbank mit Sentiment-Annotation dient als Trainingsdaten und zur Evaluation.
