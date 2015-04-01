@@ -3,7 +3,7 @@
 
 AUTHOR = u'Michael Haas'
 SITENAME = u'Michael Haas'
-SITEURL = 'http://www.computerlinguist.org/'
+SITEURL = 'http://www.computerlinguist.org'
 
 DISPLAY_PAGES_ON_MENU = True
 
@@ -45,5 +45,7 @@ PLUGIN_PATHS = ['/home/laga/dev/pelican-plugins']
 PLUGINS = ['assets', 'sitemap', 'optimize_images']  # 'w3c_validate']
 
 SITEMAP = {'format': 'xml'}
+
+INDEX_SAVE_AS = 'blog_index.html'
 
 DISPLAY_CATS_ON_MENU = False

@@ -5,7 +5,6 @@ import sys
 sys.path.append('.')
 from pelicanconf import *
 
-SITEURL = 'http://www.computerlinguist.org'
 
 DELETE_OUTPUT_DIRECTORY = True
 
