@@ -19,14 +19,16 @@ LINKS = None
 
 #SOCIAL = None
 
+
+GPLUS = "https://plus.google.com/115592321379755190116/posts"
+
 SOCIAL = [("github", "http://github.com/mhaas/"),
           ("XING", "https://www.xing.com/profile/Michael_Haas135"),
-          ("Google+", "https://plus.google.com/115592321379755190116/posts"),
+          ("Google+", GPLUS),
           ("Stack Overflow",
            "https://stackoverflow.com/users/4306056/michael-haas")]
 
 
-GPLUS = "https://plus.google.com/115592321379755190116/posts"
 
 GSITEVER = "TGefRjRcqUNOTWOFQwqb5C-0pMX6aoJq8cGWgZhwKeM"
 
