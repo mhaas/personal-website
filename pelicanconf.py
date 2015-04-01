@@ -29,7 +29,6 @@ SOCIAL = [("github", "http://github.com/mhaas/"),
            "https://stackoverflow.com/users/4306056/michael-haas")]
 
 
-
 GSITEVER = "TGefRjRcqUNOTWOFQwqb5C-0pMX6aoJq8cGWgZhwKeM"
 
 FAVPNG = u"static/images/MH.png"
@@ -43,7 +42,7 @@ STATIC_PATHS = ([u'images', u'downloads', u'pages/ma-thesis'])
 THEME = "/home/laga/dev/pelican-themes/themes/notmyidea"
 
 PLUGIN_PATHS = ['/home/laga/dev/pelican-plugins']
-PLUGINS = ['assets', 'sitemap', 'optimize_images'] #'w3c_validate']
+PLUGINS = ['assets', 'sitemap', 'optimize_images']  # 'w3c_validate']
 
 SITEMAP = {'format': 'xml'}
 
