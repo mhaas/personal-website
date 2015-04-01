@@ -19,10 +19,11 @@ LINKS = None
 
 #SOCIAL = None
 
-SOCIAL = [  ("github", "http://github.com/mhaas/"),
-            ("XING", "https://www.xing.com/profile/Michael_Haas135"),
-            ("Google+", "https://plus.google.com/115592321379755190116/posts"),
-           ("Stack Overflow", "https://stackoverflow.com/users/4306056/michael-haas")]
+SOCIAL = [("github", "http://github.com/mhaas/"),
+          ("XING", "https://www.xing.com/profile/Michael_Haas135"),
+          ("Google+", "https://plus.google.com/115592321379755190116/posts"),
+          ("Stack Overflow",
+           "https://stackoverflow.com/users/4306056/michael-haas")]
 
 
 GPLUS = "https://plus.google.com/115592321379755190116/posts"
@@ -37,9 +38,11 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ([u'images', u'downloads', u'pages/ma-thesis'])
 
 #THEME = "notmyidea"
-#THEME = "simple"
 THEME = "/home/laga/dev/pelican-themes/themes/notmyidea"
 
-PLUGINS = ['pelican.plugins.assets']
+PLUGIN_PATHS = ['/home/laga/dev/pelican-plugins']
+PLUGINS = ['assets', 'sitemap', 'optimize_images'] #'w3c_validate']
+
+SITEMAP = {'format': 'xml'}
 
 DISPLAY_CATS_ON_MENU = False
