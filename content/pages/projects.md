@@ -1,4 +1,4 @@
-Title: Projects & Software
+Title: Projects
 Author: Michael Haas
 Slug: software-projects-michael-haas
 Lang: en

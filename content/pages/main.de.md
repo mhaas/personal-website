@@ -3,7 +3,9 @@ Date: 2013-04-19
 lang: de
 slug: index
 category: main
+status: hidden
 save_as: pages/index-de.html
+Template: main_page
 
 [![Profile pic](|filename|/images/mh-strand-200.jpg){.right}](|filename|/images/mh-strand.jpg)
 
