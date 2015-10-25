@@ -3,7 +3,7 @@
 
 AUTHOR = u'Michael Haas'
 SITENAME = u'Michael Haas'
-SITEURL = 'http://www.computerlinguist.org'
+SITEURL = 'http://computerlinguist.org'
 
 DISPLAY_PAGES_ON_MENU = True
 
@@ -47,5 +47,7 @@ PLUGINS = ['assets', 'sitemap', 'optimize_images']  # 'w3c_validate']
 SITEMAP = {'format': 'xml'}
 
 INDEX_SAVE_AS = 'blog_index.html'
+
+MENUITEMS = [('Blog', SITEURL + '/' + INDEX_SAVE_AS)]
 
 DISPLAY_CATS_ON_MENU = False
