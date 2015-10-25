@@ -96,10 +96,10 @@ These leaks are a bit harder to catch as valgrind shows no lost memory. There li
 is memory allocated (and still referenced) without being free'd. Valgrind has a
 **-show-reachable=yes** switch which is useful in this scenario.
 
-## Other fun code quality tool ##
+## Other fun code quality tools ##
 
-Beyond automatically hammering Wifidog with requests, we have some more fun toys.
-Wifidog now uses [https://travis-ci.org/wifidog/wifidog-gateway](Travis CI) to
+Beyond automatically hammering Wifidog with requests, we have tried some more fun toys.
+Wifidog now uses [Travis CI](https://travis-ci.org/wifidog/wifidog-gateway) to
 automatically build new code with both Clang and GCC with
 **-Werror -Wall -Wextra** which should make the code base a bit more resilient.
 We have already fixed all compiler warnings.
