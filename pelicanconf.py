@@ -11,6 +11,8 @@ TIMEZONE = 'Europe/Berlin'
 
 DEFAULT_LANG = u'en'
 
+MARKUP = ('md', )
+
 # Blogroll
 
 LINKS = None
@@ -39,9 +41,9 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ([u'images', u'downloads', u'pages/ma-thesis'])
 
 #THEME = "notmyidea"
-THEME = "/home/laga/dev/pelican-themes/themes/notmyidea"
+THEME = "/home/mhaas/dev/pelican-themes/themes/notmyidea"
 
-PLUGIN_PATHS = ['/home/laga/dev/pelican-plugins']
+PLUGIN_PATHS = ['/home/mhaas/dev/pelican-plugins']
 PLUGINS = ['assets', 'sitemap', 'optimize_images']  # 'w3c_validate']
 
 SITEMAP = {'format': 'xml'}
