@@ -14,7 +14,7 @@ FTP_TARGET_DIR=/computerlinguist.org
 SSH_HOST=computerlinguist.org
 SSH_PORT=22
 SSH_USER=mhaas
-SSH_TARGET_DIR=~/computerlinguist.org
+SSH_TARGET_DIR=/var/www/virtual/mhaas/computerlinguist.org
 
 DROPBOX_DIR=~/Dropbox/Public/
 

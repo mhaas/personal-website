@@ -3,7 +3,7 @@
 
 AUTHOR = u'Michael Haas'
 SITENAME = u'Michael Haas'
-SITEURL = 'http://computerlinguist.org'
+SITEURL = 'https://computerlinguist.org'
 
 DISPLAY_PAGES_ON_MENU = True
 
@@ -26,7 +26,7 @@ GPLUS = "https://plus.google.com/115592321379755190116/posts"
 
 SOCIAL = [("github", "http://github.com/mhaas/"),
           ("XING", "https://www.xing.com/profile/Michael_Haas135"),
-          ("Google+", GPLUS),
+          ("Linkedin", "https://www.linkedin.com/in/haasm"),
           ("Stack Overflow",
            "https://stackoverflow.com/users/4306056/michael-haas")]
 
