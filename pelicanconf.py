@@ -30,8 +30,7 @@ SOCIAL = [("github", "http://github.com/mhaas/"),
           ("Stack Overflow",
            "https://stackoverflow.com/users/4306056/michael-haas")]
 
-
-GSITEVER = "TGefRjRcqUNOTWOFQwqb5C-0pMX6aoJq8cGWgZhwKeM"
+GSITEVER = "y5JSK6qi6Lx8IIL6v0ClQ4hGgVLpkbpwN4PogB5ay98"
 
 FAVPNG = u"static/images/MH.png"
 
